@@ -12,6 +12,9 @@ public class Main {
         System.out.println("\n\n[Exercise 2]");
         Exercise2_ExpressionBalancing.test();
 
+        // Exercise 3: Reverse a Stack
+        System.out.println("\n\n[Exercise 3]");
+        Exercise3_StackReversal.test();
 
     }
 
